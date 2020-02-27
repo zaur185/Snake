@@ -45,5 +45,5 @@ int main()
 	
 	char arr[shortt][longg];
 	postroenie(arr);
-
+ 
 }
